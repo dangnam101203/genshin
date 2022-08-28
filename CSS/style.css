@@ -98,7 +98,7 @@ body {
     width: 1px;
     list-style: none;
     text-decoration :none;
-    
+    margin-left: -10%;
 }
 .g7-tx-2 {
     color: white;
@@ -146,4 +146,23 @@ font-size: 4px;
 list-style: none;
 margin-left: auto;
 margin-right: auto;
+}
+.g7-links {
+    margin-left: 4px;
+}
+.g7-links:hover {
+    text-decoration: underline;
+}
+.g6-list {
+display: flex;
+list-style: none;
+justify-content: center;
+margin-top: 100px;
+
+}
+.g6-item {
+    width: 120px;
+}
+.g7-list {
+    margin-bottom: 0px;
 }
