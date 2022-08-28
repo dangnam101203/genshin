@@ -1,0 +1,149 @@
+body {
+    text-align: center;
+    background-image: url("../IMAGES/nen.jpg");
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-position: 3100 1889.05;
+    background-size: 100%;
+    background-origin: initial;
+    background-attachment: scroll;
+}
+
+.g1-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.g1-list .logo {
+    width: 194px;
+}
+
+.g1-btn-img img {
+    width: 200px;
+}
+
+#g2 {
+    margin-top: 80px;
+}
+
+.g2-list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.g2-item-1 {
+    width: 700px;
+}
+
+.g2-item-btn-play {
+    width: 150px;
+}
+
+.g3-list {
+    list-style: none;
+}
+
+.container {
+    /* min-height: 100vh; */
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn-g5-slider-left {
+    left: -15%;
+}
+
+.btn-g5-slider-right {
+    right: -15%;
+}
+
+.g4-img {
+    display: flex;
+    list-style: none;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.g4-img img {
+    width: 100%;
+}
+
+.g3-list {
+    list-style: none;
+}
+
+.g4-list {
+    list-style: none;
+}
+.g7 {
+    background-color: black;
+}
+.g5-list{
+    list-style: none;
+}
+.img-top {
+    margin-left: auto;
+    margin-right: auto;
+    width: 35px;
+}
+.g7-tx-1 {
+    color: white ;
+    width: 1px;
+    list-style: none;
+    text-decoration :none;
+    
+}
+.g7-tx-2 {
+    color: white;
+    list-style: none;
+    text-decoration :none;
+}
+.g7-tx-3 {
+    color: white;
+    list-style: none;
+    text-decoration :none;
+}
+.g7-tx-4 {
+    color: white;
+    list-style: none;
+    text-decoration :none;  
+}
+.g7-tx-5 {
+    color: white;   
+    
+}
+.g7-tx {
+font-size: 4px;
+list-style: none;
+margin-left: auto;
+margin-right: auto;
+
+}
+.g7-e {
+    width: 100px;
+}
+.g7-tx-1:hover {
+    color: white;
+}
+.g7-tx-2:hover {
+    color: white;
+}
+.g7-tx-3:hover {
+    color: white;
+}
+.g7-tx-4:hover {
+    color: white;
+}
+.g7-tx-before {
+font-size: 4px;
+list-style: none;
+margin-left: auto;
+margin-right: auto;
+}
