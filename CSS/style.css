@@ -36,16 +36,12 @@ body {
 
 .g2-item-1 {
     width: 700px;
+    margin-top: 80px;
 }
 
 .g2-item-btn-play {
     width: 150px;
 }
-
-.g3-list {
-    list-style: none;
-}
-
 .container {
     /* min-height: 100vh; */
     width: 1000px;
@@ -66,7 +62,7 @@ body {
 .g4-img {
     display: flex;
     list-style: none;
-    width: 1000px;
+    width: 1380px;
     margin-left: auto;
     margin-right: auto; 
 }
@@ -75,7 +71,7 @@ body {
     width: 100%;
 }
 
-.g3-list {
+.g3-item-top {
     list-style: none;
 }
 
@@ -84,9 +80,6 @@ body {
 }
 .g7 {
     background-color: black;
-}
-.g5-list{
-    list-style: none;
 }
 .img-top {
     margin-left: auto;
@@ -130,17 +123,8 @@ margin-right: auto;
     width: 250px;
     margin-bottom: 20px;
 }
-.g7-tx-1:hover {
-    color: white;
-}
-.g7-tx-2:hover {
-    color: white;
-}
-.g7-tx-3:hover {
-    color: white;
-}
-.g7-tx-4:hover {
-    color: white;
+.g7-links:hover {
+color: white;
 }
 .g7-tx-before {
 font-size: 10px;
@@ -166,4 +150,30 @@ margin-top: 100px;
 }
 .g7-list {
     margin-bottom: 0px;
+}
+.g3-set {
+    display:flex;
+}
+.g3-name {
+    margin-top: 100px;
+    width: 500px;
+}
+.g3-link {
+    margin-top: 105px;
+    margin-left:-25%
+}
+.g3-zl {
+    width: 800px;
+}
+.g3-list {
+    list-style: none;
+}
+.text {
+    text-align: left;
+}.bonus {
+color:green;
+margin-left: -55%;
+}
+.bonus:hover{
+    color:green;
 }
